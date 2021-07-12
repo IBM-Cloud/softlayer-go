@@ -6,7 +6,7 @@
 ![Tests](https://github.com/softlayer/softlayer-go/workflows/Tests/badge.svg)
 [![Coverage Status](https://coveralls.io/repos/github/softlayer/softlayer-go/badge.svg?branch=master)](https://coveralls.io/github/softlayer/softlayer-go?branch=master)
 
-The Official and Complete SoftLayer API Client for Golang (the Go programming language).
+This is a fork of the officially supported [Softlayer Go SDK](https://github.com/softlayer/softlayer-go). The [IBM Cloud Provider for Terraform](https://github.com/IBM-Cloud/terraform-provider-ibm) uses this client library. No additional support is provided for this SDK.
 
 ## Introduction
 
